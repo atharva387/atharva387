@@ -30,5 +30,7 @@ A modern, responsive developer portfolio built with React, Tailwind CSS, and Fra
 
 ### 📦 [Another Project](https://github.com/atharva387/your-project)
 Short description of another cool thing you built.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atharva387&repo=myportfolio-v2.1)](https://github.com/atharva387/myportfolio-v2.1)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
