@@ -22,5 +22,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=atharva387&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧰 Featured Projects
+
+### 🚀 [myportfolio-v2.1](https://github.com/atharva387/myportfolio-v2.1)
+A modern, responsive developer portfolio built with React, Tailwind CSS, and Framer Motion.  
+🌐 [Live Preview](https://atharvaa-dev-v2-1.netlify.app)
+
+### 📦 [Another Project](https://github.com/atharva387/your-project)
+Short description of another cool thing you built.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
